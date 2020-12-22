@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="streams-starter-project" />
+        <module name="kafka-streams-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="streams-starter-project" target="1.5" />
+      <module name="kafka-streams-starter" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
