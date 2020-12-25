@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kafka-project.iml" filepath="$PROJECT_DIR$/.idea/kafka-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../SPRING/pubsub/kafka-streams-starter/kafka-streams-starter.iml" filepath="$PROJECT_DIR$/../../SPRING/pubsub/kafka-streams-starter/kafka-streams-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/word-count/word-count.iml" filepath="$PROJECT_DIR$/word-count/word-count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/word-count2/word-count (1) (com.github.simplesteph.udemy.kafka.streams).iml" filepath="$PROJECT_DIR$/word-count2/word-count (1) (com.github.simplesteph.udemy.kafka.streams).iml" />
     </modules>
   </component>
 </project>

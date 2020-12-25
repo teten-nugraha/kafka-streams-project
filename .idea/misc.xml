@@ -3,7 +3,9 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../SPRING/pubsub/kafka-streams-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-streams-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/word-count/pom.xml" />
+        <option value="$PROJECT_DIR$/word-count2/pom.xml" />
       </list>
     </option>
   </component>
